@@ -15,9 +15,6 @@
     <name>guesser</name>
     <description>Guess the PIN and get the flag!</description>
     <properties>
-  <sonar.organization>practica2</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
         <java.version>11</java.version>
     </properties>
     <dependencies>
